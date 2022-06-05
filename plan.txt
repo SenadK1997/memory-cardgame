@@ -1,0 +1,9 @@
+Osnove HTML
+Osnove CSS
+
+JAVASCRIPT:
+
+-Funkcionalnost okretanja karti
+-Uslov pobjedjivanja
+-Matchatenje dvije iste karte
+-Random shuffle card
